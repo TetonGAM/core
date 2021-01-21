@@ -1,21 +1,10 @@
-# ARK Core
+# Teton Core
 
-<p align="center">
-    <img src="https://raw.githubusercontent.com/ARKEcosystem/core/master/banner.png" />
-</p>
-
-[![Build Status](https://badgen.now.sh/github/status/ArkEcosystem/core/master)](https://github.com/ArkEcosystem/core/actions)
-[![Codecov](https://badgen.now.sh/codecov/c/github/arkecosystem/core)](https://codecov.io/gh/arkecosystem/core)
 [![License: MIT](https://badgen.now.sh/badge/license/MIT/green)](https://opensource.org/licenses/MIT)
-
-> Lead Maintainer: [Erwann Gentric](https://github.com/air1one)
 
 ## Introduction
 
-> This repository contains all plugins that make up the ARK Core.
-
-Check our [dedicated documentation site](https://learn.ark.dev) for information about all available plugins and [How to write a Core Plugin
-](https://learn.ark.dev/application-development/how-to-write-core-dapps) if you want to get started with developing your own plugins.
+This repository contains all plugins that make up the Teton Core.
 
 ## Documentation
 
