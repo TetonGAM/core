@@ -35,7 +35,10 @@
       "idFullSha256": true,
       "acceptExpiredTransactionTimestamps": false
     },
-    "multiPaymentLimit": 128,
+    "multiPaymentLimit": 128
+  },
+  {
+    "height": 1000000,
     "aip11": true,
     "aip36": true
   }
