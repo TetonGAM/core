@@ -3,118 +3,120 @@
   "totalAmount": "10000000000000000",
   "totalFee": "0",
   "reward": "0",
-  "payloadHash": "0ac71fc34f7d14c8b8c898541fa74418b1dd78bb3a988787ebdb4ef56f793f54",
+  "payloadHash": "7345bca861721d716ba890e961c1bf5f7973c2c08c13b1ca8737a945361ed6fc",
   "timestamp": 0,
   "numberOfTransactions": 6,
-  "payloadLength": 1301,
+  "payloadLength": 1303,
   "previousBlock": null,
-  "generatorPublicKey": "0310568b20bd74ab46db9e66587f1f9aa90319e9f5a1bdeee37610804b3674914c",
+  "generatorPublicKey": "0344c40d60189aa024d4d94907bfa1979f8e24fbe1d5e1019da47325f428fc60e2",
   "transactions": [
     {
-      "timestamp": 0,
       "version": 1,
+      "network": 65,
       "type": 0,
+      "timestamp": 0,
+      "senderPublicKey": "03fe77b61e1816bebd8386c81bae3de91f44a244dd7ff233a536b1fcf230db81d3",
       "fee": "0",
       "amount": "10000000000000000",
-      "recipientId": "TJMoUeGAuZkVxSkT3bw4Gn3x7yMKVuXQLK",
-      "senderPublicKey": "022f03358a8e65c1b93280b2a2330582fbed6892e775b59e268334b08284a4b56e",
       "expiration": 0,
-      "signature": "3044022066be6192f08c96aa6f5e74412a9c04b60557d39daa71a9dd177ed5a8401ff0a202204b0f553c12c797cea3f300c6730a8878e1ce27aa630f5736e0bdd5fccd68d1dd",
-      "senderId": "TTygkgndEKbTpFx7ywFDXupdGK75Zy4gkC",
-      "id": "146cb90046f7f79c264013d6bd0cb88fc80a8479ccbc0071d8d8bbf4a2f26d84"
+      "recipientId": "TErae7t3JtDC5PuycAGeoX2AD7j4RBML9r",
+      "signature": "30450221009c08a75e80dd1dd4f7c74e80f72422ae326608a4aaea5c7994be7da33199ca1c022061bdbe8369c8b81e2c60815a13f4c9a32b2e13406c8abcc0ecee120adb12f86d",
+      "typeGroup": 1,
+      "id": "3774d49c285d1a09e95677831763d68be25d1b36cc19173cddd1306b53fcb9ba",
+      "senderId": "TRG9j9qsfVUnz1JKbEtgsK4ve597eJMKci"
     },
     {
-      "timestamp": 0,
       "version": 1,
+      "network": 65,
       "type": 2,
+      "timestamp": 0,
+      "senderPublicKey": "02c0d0c4730fe4d146d100c9e2ee781dc1116ea378b5a63b6702752aabeab4354f",
       "fee": "0",
       "amount": "0",
-      "recipientId": null,
-      "senderPublicKey": "0313f57774fa51a3d52256be6b6f02fcdc4fab99992c12b9726b244a0fb3d974b7",
       "asset": {
         "delegate": {
-          "username": "genesis_1",
-          "publicKey": "0313f57774fa51a3d52256be6b6f02fcdc4fab99992c12b9726b244a0fb3d974b7"
+          "username": "genesis_1"
         }
       },
-      "signature": "3044022006935793d13c032febda87c9629d82719846671801213359e8cff8a98191200e022071fd1448f710836790b7eb37d4e6cee85b1c87c97e3922339849dafe2f595005",
-      "senderId": "TBpg6HJDwBtF5t1aLwojDPgVzrn1r7BrVK",
-      "id": "4d8589556a1144bee3b305ea61db8f0f2e3eba64de5a241e412413b99d5dfe1f"
+      "signature": "30440220216f5e9c6603799c04c903b899d6905a595d1b449289d0c1c3692f429a62763902203abad431ab08781ee0a9a4fd678de3cc207352eb096749093951e7156f19d231",
+      "typeGroup": 1,
+      "id": "c49386563d68e9f43d42c6063a5e30a136c705fb6dbabbe24e6d2ae9f79c4b6c",
+      "senderId": "TVw9qw4JAQwZb7dCDfkHa6ZbR1i87NtmTy"
     },
     {
-      "timestamp": 0,
       "version": 1,
+      "network": 65,
       "type": 2,
+      "timestamp": 0,
+      "senderPublicKey": "02e073bd550765e1aa9cdd3b6c3c7f2f805966c3e2fe94bb348db5863deffbf77e",
       "fee": "0",
       "amount": "0",
-      "recipientId": null,
-      "senderPublicKey": "0223773e3099c8561586816a376d8d24c11d944783b11fb6e665b192c3134b1c98",
       "asset": {
         "delegate": {
-          "username": "genesis_2",
-          "publicKey": "0223773e3099c8561586816a376d8d24c11d944783b11fb6e665b192c3134b1c98"
+          "username": "genesis_2"
         }
       },
-      "signature": "3045022100fb1192a279d49f4ac8b40bef28402bcde4f0c1781b88ddc5911b4782ba88c2cc022022a5f913e1e7fc261b8113f738be337f5aac8afce149cd50216c6d1a6175d4da",
-      "senderId": "TGE8nZXhTiNU7zZzMLciASvSW9WeJUU5hQ",
-      "id": "907777b2de66c1693f8703679678f2d52aa2e5572efe5ef407acead6cfd8eb13"
+      "signature": "3045022100e9ff54f06fe5cd3aa4b1eea59ddce53b2c83d0deffd3ae1b6d31b4150cd4fe7f02204344bcd38967423c36981a7fc52379c0fc9dcfb7375c627fbb1bc2a6e8817cc3",
+      "typeGroup": 1,
+      "id": "4c620eee728d37b4f2c8154844e5deac54def74ae87d364b17d1cb6df60908ce",
+      "senderId": "TL21oige7PSkBybpPS1eeUymbWnzfgyd8R"
     },
     {
-      "timestamp": 0,
       "version": 1,
+      "network": 65,
       "type": 2,
+      "timestamp": 0,
+      "senderPublicKey": "020ad4502e933ceee00ae897eae93b244f8a34ede70b798f4ca07126efdb90e8a8",
       "fee": "0",
       "amount": "0",
-      "recipientId": null,
-      "senderPublicKey": "03b47d97db5fb962bed3c07316903eb8f60ae0e3cfdec1c84d943196f2d38fa92c",
       "asset": {
         "delegate": {
-          "username": "genesis_3",
-          "publicKey": "03b47d97db5fb962bed3c07316903eb8f60ae0e3cfdec1c84d943196f2d38fa92c"
+          "username": "genesis_3"
         }
       },
-      "signature": "3045022100baf35eaed62252e5fa7240cffe078804f56060b3fa1733e9973e3e4f42d0d3c202200826937bcfaa54a8fe90d8f93e279265554263c7ed63ef75d8f0628f39a729b2",
-      "senderId": "TMBiNheXdjEWU7bnHd7rvFhSMeUFhif1PK",
-      "id": "16cfc40f3c50ff1539099724c889dd30e788ae498b0bd5ae2a4e419fb51fd388"
+      "signature": "3045022100efa9e2c9489f91bf615b3681f0cf1684196bc0d525163677124e151e6c26a415022045e584713db9cb903cbe51b663d0f243fe2aaf2a99e2506cbc55dc2cfc7e4dd6",
+      "typeGroup": 1,
+      "id": "56ce726519547a7f42c0d664a712fd90dc55a8abe6977dec3299795cc1e75abb",
+      "senderId": "TQP4XdKnCJmxyPNzH19jUss5CJQab95QPk"
     },
     {
-      "timestamp": 0,
       "version": 1,
+      "network": 65,
       "type": 2,
+      "timestamp": 0,
+      "senderPublicKey": "020ad99eb61da2f3f670a2d7b19fee2fb3117feee92083241ccdc870591ce4094a",
       "fee": "0",
       "amount": "0",
-      "recipientId": null,
-      "senderPublicKey": "02199d96016341e3d94f19ff9dd8e690a2f6a214850b2869c101753eb1c9b30b71",
       "asset": {
         "delegate": {
-          "username": "genesis_4",
-          "publicKey": "02199d96016341e3d94f19ff9dd8e690a2f6a214850b2869c101753eb1c9b30b71"
+          "username": "genesis_4"
         }
       },
-      "signature": "304402200b6bacd45542c56ad9ecb144e85d0cf97cb50c44f0786d8ebf3ac90e1dd68b600220283eb93e63d2aae99d0cd23cf631697062eace8e627f1a2770fe64b5ffae40e2",
-      "senderId": "TGm6gyKNmHJ5CVqgEX3xz1T25Cn124VJMT",
-      "id": "99aa6399c381fd305fce4cbc9297be375c8a823c9af0d54a8557a3347baa1d62"
+      "signature": "304402207d5ad8c71ba8dc2148fedb4cafd94df3533db353ae3edcce78a4eb730d8c23ac02204c51bba3db1ca8ca4d4a34638a33edd9078812a5afa05b67bf49c54fca3bc7e2",
+      "typeGroup": 1,
+      "id": "785e33184ab43f18dbe13739cfcfa5f3e6943c1f7e4f40fea5142f858852f5e1",
+      "senderId": "TYYiHs7yMxi1rUar5VdDVogy7tbaaVWJ84"
     },
     {
-      "timestamp": 0,
       "version": 1,
+      "network": 65,
       "type": 2,
+      "timestamp": 0,
+      "senderPublicKey": "025ec0548718178380ce990903a5ba7bb1be1a3718979564400116c71ca37c5e3f",
       "fee": "0",
       "amount": "0",
-      "recipientId": null,
-      "senderPublicKey": "03fc268ce64517c37835656a14f1b236cf787d4574cb2ab0439ee7be3192ba2c06",
       "asset": {
         "delegate": {
-          "username": "genesis_5",
-          "publicKey": "03fc268ce64517c37835656a14f1b236cf787d4574cb2ab0439ee7be3192ba2c06"
+          "username": "genesis_5"
         }
       },
-      "signature": "3044022029a1eee9987c20e0b656db4528388a951a80408e6830cfcc125ea801a83718c8022032bd965eeea4878885b563bb81fac75158da55600c2f3beccddc8d9b702d20d5",
-      "senderId": "TXEJ674aRSf5MC27KVAdZFk3ezVgWAGPAP",
-      "id": "767ab6cb01fa4937ef721adcea4275927f29a014857147db3fce0277f805bd0d"
+      "signature": "3045022100e89215138122940caca09adece7a2a70c725dee7f3a469ee509821e3897c3cf502205dc0957261ecb44b3c256d9b804a37f1f9b35a653f964045dae05219d5c8ea24",
+      "typeGroup": 1,
+      "id": "205baf0ffe45249dd8c78211dbc58d540310da878d7c1935ea922b3b1c0a5874",
+      "senderId": "TZHnutGNkPBRXw45tf9nmyMtzuvygMYiJD"
     }
   ],
   "height": 1,
-  "id": "13738361833211706095",
-  "blockSignature": "3045022100faeedc1ec8f919930e47f9cb53e53fb8e4340642b2660a28a6fb4bd3deef0e1702205b12b913afadf129bd8af1b434ce8e4a2b78fb9440d430d3cd9d971c28f9b664"
+  "id": "5458752072324132857",
+  "blockSignature": "3045022100f052d7dce247405dc00dee04a2e39464d51f21c79ef0f5ae4c7ec62a179fb54a022004a9f26b2ce028dd347837ebdcc458deee2402f10fd5ce327bdc7bb73c81cbd6"
 }
