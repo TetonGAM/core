@@ -36,6 +36,7 @@
       "acceptExpiredTransactionTimestamps": false
     },
     "multiPaymentLimit": 128,
-    "aip11": true
+    "aip11": true,
+    "aip36": true
   }
 ]
