@@ -1,4 +1,9 @@
 {
   "blocks": [],
-  "transactions": []
+  "blocksTransactions": {},
+  "transactions": [],
+  "outlookTable": {},
+  "transactionIdFixTable": {},
+  "wrongTransactionOrder": {},
+  "negativeBalances": {}
 }
