@@ -10,7 +10,7 @@
       "maxPayload": 6291456,
       "acceptExpiredTransactionTimestamps": true
     },
-    "epoch": "2021-01-01T00:00:00.000Z",
+    "epoch": "2021-01-20T00:00:00.000Z",
     "fees": {
       "staticFees": {
         "transfer": 1000000,
@@ -35,10 +35,7 @@
     "block": {
       "idFullSha256": true,
       "acceptExpiredTransactionTimestamps": false
-    }
-  },
-  {
-    "height": 1000000,
+    },
     "aip11": true,
     "aip36": true
   }
