@@ -7,8 +7,7 @@ module.exports = {
             port: process.env.CORE_P2P_PORT || 4002,
         },
     },
-    "@arkecosystem/core-state": {},
-    
+    "@arkecosystem/core-state": {}, 
     "@arkecosystem/core-database-postgres": {
         connection: {
             host: process.env.CORE_DB_HOST || "localhost",
